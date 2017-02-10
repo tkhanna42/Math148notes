@@ -1,0 +1,27 @@
+{
+  "name": "m148-notes",
+  "version": "1.0.0",
+  "description": "Math 148 notes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkhanna42/Math148notes.git"
+  },
+  "keywords": [
+    "Calculus2",
+    "Math",
+    "UW",
+    "University",
+    "of",
+    "Waterloo"
+  ],
+  "author": "Tarun Khanna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tkhanna42/Math148notes/issues"
+  },
+  "homepage": "https://github.com/tkhanna42/Math148notes#readme"
+}
